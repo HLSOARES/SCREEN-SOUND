@@ -1,0 +1,14 @@
+C:\Users\humbe\Desktop\Csharp-projeto-musical\bin\Debug\net9.0\Csharp-projeto-musical.exe
+C:\Users\humbe\Desktop\Csharp-projeto-musical\bin\Debug\net9.0\Csharp-projeto-musical.deps.json
+C:\Users\humbe\Desktop\Csharp-projeto-musical\bin\Debug\net9.0\Csharp-projeto-musical.runtimeconfig.json
+C:\Users\humbe\Desktop\Csharp-projeto-musical\bin\Debug\net9.0\Csharp-projeto-musical.dll
+C:\Users\humbe\Desktop\Csharp-projeto-musical\bin\Debug\net9.0\Csharp-projeto-musical.pdb
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.AssemblyInfoInputs.cache
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.AssemblyInfo.cs
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.csproj.CoreCompileInputs.cache
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.dll
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\refint\Csharp-projeto-musical.dll
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.pdb
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\Csharp-projeto-musical.genruntimeconfig.cache
+C:\Users\humbe\Desktop\Csharp-projeto-musical\obj\Debug\net9.0\ref\Csharp-projeto-musical.dll
